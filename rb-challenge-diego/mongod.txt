@@ -1,0 +1,4 @@
+MacBook-Pro-de-Diego:bin brunaleiras$ sudo ./mongod --dbpath /Users/diegobassay/Dev/NoSQLDatabases/mongodb-data
+
+
+

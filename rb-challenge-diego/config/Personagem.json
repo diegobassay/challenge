@@ -1,0 +1,35 @@
+{
+  "name": "Personagem",
+  "attributes": {
+    "nome": {
+    	"type": "String", "label": "Nome"
+  	},
+    "sexo": {
+      "type": "String", "label": "Sexo"
+    },  
+    "idade": {
+      "type": "Number", "label": "Idade"
+    }, 
+    "cabelo":  {
+    	"type": "String", "label": "Cabelo"
+  	},    
+	"olhos":  {
+    	"type": "String", "label": "Olhos"
+  	},	
+	"pessoasRelacionadas":  {
+    	"type": "Schema.Types.Mixed", "label": "PessoasRelacionadas"
+  	},
+	"origem":  {
+    	"type": "String", "label": "Origem"
+  	},	
+	"atividade":  {
+    	"type": "String", "label": "Atividade"
+  	},		
+	"voz":  {
+    	"type": "String", "label": "Voz"
+  	},	
+	"caracteristicas":  {
+    	"type": "[]", "label": "Caracteristicas"
+  	},				
+  }
+}
